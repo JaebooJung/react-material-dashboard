@@ -57,6 +57,7 @@
     "validate.js": "^0.13.1"
   },
   "devDependencies": {
+    "eslint": "^6.8.0",
     "sftp-sync-deploy": "^0.7.1",
     "typescript": "^3.9.3"
   }
